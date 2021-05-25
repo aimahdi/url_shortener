@@ -11,8 +11,5 @@ If you're bored with a long URL, and cannot shorten your URL in android then you
 <img src="/screenshots/Device/2.png" width="300" height="500" alt="Second Page"/>
 <br>
 <img src="/screenshots/Device/3.png" width="300" height="500" alt="Third Page"/>|
-<<<<<<< HEAD
 <img src="/screenshots/Device/4.png" width="300" height="500" alt="Fourth Page"/>
-=======
-<img src="/screenshots/Device/4.png" width="300" height="500" alt="Fourth Page"/>
->>>>>>> 71b7384a1aeb4acc4d963a20b76f7fd155b30c38
+
