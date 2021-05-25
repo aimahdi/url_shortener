@@ -14,5 +14,4 @@ If you're bored with a long URL, and cannot shorten your URL in android then you
 
 ## video example
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6blB9Rx8gko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/6blB9Rx8gko/0.jpg)](http://www.youtube.com/watch?v=6blB9Rx8gko "Video Tutorial")
