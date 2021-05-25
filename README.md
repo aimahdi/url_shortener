@@ -14,4 +14,4 @@ If you're bored with a long URL, and cannot shorten your URL in android then you
 
 ## video example
 
-[Visit Youtube](http://github.com)
+[Visit Youtube](https://www.youtube.com/watch?v=6blB9Rx8gko)
