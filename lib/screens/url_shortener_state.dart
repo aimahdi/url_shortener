@@ -25,7 +25,7 @@ class URLShortenerState extends ChangeNotifier {
   }
 
   Future<String> getShortLink(String longUrl) async {
-    var url = Uri.parse("https://cleanuri.com//api/v1/shorten");
+    var url = Uri.parse("https://cleanuri.com/api/v1/shorten");
     final result = await http
         .post(url, body: {"url": longUrl});
 
