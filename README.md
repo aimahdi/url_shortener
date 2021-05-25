@@ -6,10 +6,13 @@ If you're bored with a long URL, and cannot shorten your URL in android then you
 
 ## screenshots
 
-
 <img src="/screenshots/Device/1.png" width="300" height="500" alt="First Page"/>|
 <img src="/screenshots/Device/2.png" width="300" height="500" alt="Second Page"/>
 <br>
 <img src="/screenshots/Device/3.png" width="300" height="500" alt="Third Page"/>|
 <img src="/screenshots/Device/4.png" width="300" height="500" alt="Fourth Page"/>
+
+## video example
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6blB9Rx8gko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
